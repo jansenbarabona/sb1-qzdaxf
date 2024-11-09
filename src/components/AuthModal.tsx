@@ -27,7 +27,7 @@ export function AuthModal({ onAuthenticate }: AuthModalProps) {
         <div className="flex items-center justify-center mb-6">
           <Lock className="w-12 h-12 text-indigo-400" />
         </div>
-        <h2 className="text-2xl font-bold text-center mb-6">Welcome</h2>
+        <h2 className="text-2xl font-bold text-center mb-6">Welcome Back</h2>
         <p className="text-center mb-6 text-gray-300">
           Enter your email address to access the registration system
         </p>
